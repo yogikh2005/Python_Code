@@ -4,17 +4,15 @@ def CheckPrime(No):
         if No %i==0:
             flag=True
     return flag
-            
-
+         
 def main():
     No=0 
     print("Enter the No : ")
     No=int(input())
- 
+    
     Ret=CheckPrime(No)
     if Ret==False:
         print("Prime Number")
     
-
 if __name__ =="__main__":
-    main()	
+    main()
