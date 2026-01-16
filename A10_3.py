@@ -1,7 +1,7 @@
-def NaturalNoSum(No):
-    Sum=0
+def Factorial(No):
+    Sum=1
     for i in range(1,No+1):
-        Sum=Sum+i
+        Sum=Sum*i
     return Sum
 
 def main():
@@ -11,7 +11,7 @@ def main():
     print("Enter the No : ")
     No=int(input())
  
-    Ret=NaturalNoSum(No)
+    Ret=Factorial(No)
     print(Ret)
 
 if __name__ =="__main__":
