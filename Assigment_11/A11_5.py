@@ -14,6 +14,6 @@ def main():
     Ret=ReverseNo(No)
     if Ret==True:
         print("Palindrome")
-
+ 
 if __name__ =="__main__":
     main()

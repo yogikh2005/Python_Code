@@ -1,4 +1,5 @@
 def CountDigit(No):
+    No=abs(No)
     Cnt=0
     while(No>0):
         No=No//10
