@@ -1,4 +1,4 @@
-CheckOdd=lambda No : True if No%2!=0   else False
+CheckOdd=lambda No : (No%2!=0)
 
 def main():
     No=0

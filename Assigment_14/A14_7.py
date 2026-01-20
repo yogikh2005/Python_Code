@@ -1,4 +1,4 @@
-CheckDivisibleByFive=lambda No : True if No%5==0  else False
+CheckDivisibleByFive=lambda No : (No%5==0)
 
 def main():
     No=0

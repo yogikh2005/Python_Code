@@ -1,4 +1,4 @@
-CheckEven=lambda No : True if No%2==0   else False
+CheckEven=lambda No :(No%2==0)
 
 def main():
     No=0
