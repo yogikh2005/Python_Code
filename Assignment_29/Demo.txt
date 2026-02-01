@@ -1,0 +1,10 @@
+Python is easy to learn
+Python is widely used in automation
+This is a sample text file
+Learning Python improves productivity
+ERROR occurred while processing request
+System running normally
+Python Python Python
+WARNING: Low memory detected
+Another ERROR found in logs
+End of dummy text file
