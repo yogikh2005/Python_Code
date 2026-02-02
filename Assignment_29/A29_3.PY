@@ -2,11 +2,15 @@ import os
 import sys
 
 def CopyFile(FileName):
-    fobj=open(FileName,"r")
-    Data=fobj.read()
 
+    fobj=open(FileName,"r")
     wobj=open("Demo.txt","w")
-    wobj.write(Data)
+    
+    Buffer=fobj.read(1024)
+
+    while len(Buffer)>0:
+        wobj.write(Buffer)
+        Buffer=fobj.read(1024)
 
     print("Data copy successfully.")
     fobj.close()
