@@ -1,0 +1,18 @@
+----------------------------------------
+This log file was created by YK Automation.
+This is a Duplicate File Finder script.
+----------------------------------------
+Removed File Are : 
+demo\a copy 3.txt
+demo\temp\a copy 2.txt
+demo\temp\A32_4.py
+demo\b copy.txt
+demo\temp\b copy.txt
+demo\c.txt
+demo\temp\c.txt
+----------------------------------------
+Total duplicate files found & removed : 7
+This log file was created on : Thu Feb  5 14:28:03 2026
+----------------------------------------
+----Thank you for using YK Automation----
+----------------------------------------

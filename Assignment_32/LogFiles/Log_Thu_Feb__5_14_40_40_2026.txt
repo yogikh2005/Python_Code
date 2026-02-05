@@ -1,0 +1,12 @@
+----------------------------------------
+This log file was created by YK Automation.
+This is a Duplicate File Finder script.
+----------------------------------------
+Removed File Are : 
+----------------------------------------
+Total duplicate files found & removed : 0
+This log file was created on : Thu Feb  5 14:40:40 2026
+Time required for excustion : 0.0022470951080322266
+----------------------------------------
+----Thank you for using YK Automation----
+----------------------------------------
