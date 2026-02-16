@@ -1,0 +1,3461 @@
+--------------------------------------------------
+---- Marvellous Platform Surveillance System -----
+Log created at : Mon Feb 16 12:23:07 2026
+--------------------------------------------------
+
+----------------- System Report ------------------
+CPU Usage : 5.0 %
+--------------------------------------------------
+RAM usage : 55.4 %
+--------------------------------------------------
+
+Disk Usage Report
+--------------------------------------------------
+C:\ -> 54.9 % used
+D:\ -> 70.7 % used
+--------------------------------------------------
+
+Netwrk Usage Report
+--------------------------------------------------
+Sent : 37.41 MB
+Recv : 206.86 MB
+--------------------------------------------------
+Top 10 memory consuming process : 
+--------------------------------------------------
+PID : 3844
+Name : MemCompression
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:08
+CPU % : 0.00
+Memory % : 4.55
+No Of Thread Created : 38
+No Of File Opened : 0
+RSS memory : 731.78
+VMS memory : 2.39
+--------------------------------------------------
+PID : 19512
+Name : Code.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 10:51:59
+CPU % : 0.30
+Memory % : 2.53
+No Of Thread Created : 15
+No Of File Opened : 275
+RSS memory : 407.42
+VMS memory : 530.23
+--------------------------------------------------
+PID : 15100
+Name : chrome.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 09:36:52
+CPU % : 0.00
+Memory % : 2.21
+No Of Thread Created : 29
+No Of File Opened : 581
+RSS memory : 354.64
+VMS memory : 288.64
+--------------------------------------------------
+PID : 3408
+Name : explorer.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 03:18:21
+CPU % : 1.50
+Memory % : 1.97
+No Of Thread Created : 112
+No Of File Opened : 5337
+RSS memory : 316.84
+VMS memory : 305.86
+--------------------------------------------------
+PID : 2008
+Name : chrome.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 03:23:20
+CPU % : 0.00
+Memory % : 1.82
+No Of Thread Created : 28
+No Of File Opened : 586
+RSS memory : 292.12
+VMS memory : 270.16
+--------------------------------------------------
+PID : 7080
+Name : chrome.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 03:19:41
+CPU % : 0.00
+Memory % : 1.73
+No Of Thread Created : 24
+No Of File Opened : 2207
+RSS memory : 277.44
+VMS memory : 398.58
+--------------------------------------------------
+PID : 10920
+Name : chrome.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 03:19:40
+CPU % : 1.60
+Memory % : 1.72
+No Of Thread Created : 46
+No Of File Opened : 1909
+RSS memory : 276.84
+VMS memory : 163.31
+--------------------------------------------------
+PID : 23440
+Name : Code.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 10:51:53
+CPU % : 0.70
+Memory % : 1.58
+No Of Thread Created : 27
+No Of File Opened : 515
+RSS memory : 254.57
+VMS memory : 275.12
+--------------------------------------------------
+PID : 5340
+Name : MsMpEng.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:09
+CPU % : 1.50
+Memory % : 1.51
+No Of Thread Created : 66
+No Of File Opened : 984
+RSS memory : 243.19
+VMS memory : 332.27
+--------------------------------------------------
+PID : 20420
+Name : WhatsApp.Root.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 09:17:16
+CPU % : 0.30
+Memory % : 1.35
+No Of Thread Created : 35
+No Of File Opened : 1649
+RSS memory : 217.52
+VMS memory : 116.22
+--------------------------------------------------
+--------------------------------------------------
+All processes:
+PID : 0
+Name : System Idle Process
+Username : NT AUTHORITY\SYSTEM
+Status : running
+Start time : 1970-01-01 05:30:00
+CPU % : 1481.30
+Memory % : 0.00
+No Of Thread Created : 48
+No Of File Opened : 0
+RSS memory : 0.01
+VMS memory : 0.06
+--------------------------------------------------
+PID : 4
+Name : System
+Username : NT AUTHORITY\SYSTEM
+Status : running
+Start time : 1970-01-01 05:30:00
+CPU % : 14.10
+Memory % : 0.09
+No Of Thread Created : 369
+No Of File Opened : 5903
+RSS memory : 13.72
+VMS memory : 0.07
+--------------------------------------------------
+PID : 164
+Name : chrome.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 12:21:53
+CPU % : 1.50
+Memory % : 1.32
+No Of Thread Created : 36
+No Of File Opened : 484
+RSS memory : 212.24
+VMS memory : 145.52
+--------------------------------------------------
+PID : 236
+Name : 
+Username : None
+Status : stopped
+Start time : 2026-02-16 03:16:54
+CPU % : 0.00
+Memory % : 0.38
+No Of Thread Created : 0
+No Of File Opened : 0
+RSS memory : 61.47
+VMS memory : 0.18
+--------------------------------------------------
+PID : 280
+Name : Registry
+Username : None
+Status : running
+Start time : 2026-02-16 03:16:54
+CPU % : 0.00
+Memory % : 0.41
+No Of Thread Created : 4
+No Of File Opened : 0
+RSS memory : 65.95
+VMS memory : 26.35
+--------------------------------------------------
+PID : 476
+Name : backgroundTaskHost.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 12:11:13
+CPU % : 0.00
+Memory % : 0.07
+No Of Thread Created : 6
+No Of File Opened : 235
+RSS memory : 10.99
+VMS memory : 7.26
+--------------------------------------------------
+PID : 488
+Name : Code.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 10:51:58
+CPU % : 0.00
+Memory % : 0.58
+No Of Thread Created : 27
+No Of File Opened : 383
+RSS memory : 93.84
+VMS memory : 94.98
+--------------------------------------------------
+PID : 900
+Name : smss.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:16:59
+CPU % : 0.00
+Memory % : 0.01
+No Of Thread Created : 2
+No Of File Opened : 58
+RSS memory : 1.46
+VMS memory : 1.26
+--------------------------------------------------
+PID : 1004
+Name : powershell.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 10:51:58
+CPU % : 0.00
+Memory % : 0.34
+No Of Thread Created : 9
+No Of File Opened : 559
+RSS memory : 54.78
+VMS memory : 71.16
+--------------------------------------------------
+PID : 1100
+Name : conhost.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 03:18:20
+CPU % : 0.00
+Memory % : 0.06
+No Of Thread Created : 3
+No Of File Opened : 118
+RSS memory : 9.06
+VMS memory : 1.68
+--------------------------------------------------
+PID : 1252
+Name : csrss.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:07
+CPU % : 0.00
+Memory % : 0.04
+No Of Thread Created : 16
+No Of File Opened : 913
+RSS memory : 6.27
+VMS memory : 2.67
+--------------------------------------------------
+PID : 1340
+Name : wininit.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:07
+CPU % : 0.00
+Memory % : 0.05
+No Of Thread Created : 2
+No Of File Opened : 163
+RSS memory : 7.33
+VMS memory : 1.6
+--------------------------------------------------
+PID : 1372
+Name : conhost.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 10:51:57
+CPU % : 0.00
+Memory % : 0.04
+No Of Thread Created : 2
+No Of File Opened : 99
+RSS memory : 6.37
+VMS memory : 1.17
+--------------------------------------------------
+PID : 1412
+Name : msedgewebview2.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 03:18:24
+CPU % : 0.00
+Memory % : 0.04
+No Of Thread Created : 20
+No Of File Opened : 354
+RSS memory : 5.79
+VMS memory : 15.21
+--------------------------------------------------
+PID : 1468
+Name : services.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:07
+CPU % : 0.00
+Memory % : 0.11
+No Of Thread Created : 9
+No Of File Opened : 1010
+RSS memory : 18.12
+VMS memory : 7.21
+--------------------------------------------------
+PID : 1500
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:13
+CPU % : 0.00
+Memory % : 0.06
+No Of Thread Created : 7
+No Of File Opened : 238
+RSS memory : 9.46
+VMS memory : 2.3
+--------------------------------------------------
+PID : 1508
+Name : LsaIso.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:07
+CPU % : 0.00
+Memory % : 0.02
+No Of Thread Created : 1
+No Of File Opened : 62
+RSS memory : 3.33
+VMS memory : 1.3
+--------------------------------------------------
+PID : 1516
+Name : lsass.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:07
+CPU % : 1.20
+Memory % : 0.21
+No Of Thread Created : 11
+No Of File Opened : 1841
+RSS memory : 33.53
+VMS memory : 12.14
+--------------------------------------------------
+PID : 1640
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:08
+CPU % : 0.00
+Memory % : 0.26
+No Of Thread Created : 21
+No Of File Opened : 1496
+RSS memory : 41.73
+VMS memory : 14.72
+--------------------------------------------------
+PID : 1668
+Name : fontdrvhost.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:08
+CPU % : 0.00
+Memory % : 0.02
+No Of Thread Created : 5
+No Of File Opened : 43
+RSS memory : 3.41
+VMS memory : 1.69
+--------------------------------------------------
+PID : 1756
+Name : WUDFHost.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:08
+CPU % : 0.00
+Memory % : 0.05
+No Of Thread Created : 5
+No Of File Opened : 255
+RSS memory : 8.33
+VMS memory : 5.41
+--------------------------------------------------
+PID : 1808
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:08
+CPU % : 0.00
+Memory % : 0.12
+No Of Thread Created : 11
+No Of File Opened : 1590
+RSS memory : 19.31
+VMS memory : 10.32
+--------------------------------------------------
+PID : 1816
+Name : ipf_helper.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 03:18:20
+CPU % : 0.00
+Memory % : 0.07
+No Of Thread Created : 4
+No Of File Opened : 177
+RSS memory : 11.64
+VMS memory : 2.0
+--------------------------------------------------
+PID : 1856
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:08
+CPU % : 0.00
+Memory % : 0.08
+No Of Thread Created : 5
+No Of File Opened : 363
+RSS memory : 13.41
+VMS memory : 3.38
+--------------------------------------------------
+PID : 1876
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:08
+CPU % : 0.00
+Memory % : 0.06
+No Of Thread Created : 3
+No Of File Opened : 211
+RSS memory : 9.91
+VMS memory : 2.58
+--------------------------------------------------
+PID : 1924
+Name : WUDFHost.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:08
+CPU % : 0.00
+Memory % : 0.11
+No Of Thread Created : 18
+No Of File Opened : 497
+RSS memory : 18.48
+VMS memory : 8.68
+--------------------------------------------------
+PID : 1932
+Name : AppActions.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 03:28:22
+CPU % : 0.00
+Memory % : 0.26
+No Of Thread Created : 7
+No Of File Opened : 382
+RSS memory : 41.64
+VMS memory : 12.73
+--------------------------------------------------
+PID : 1956
+Name : AutoModeDetect.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 03:18:20
+CPU % : 0.00
+Memory % : 0.09
+No Of Thread Created : 9
+No Of File Opened : 196
+RSS memory : 13.85
+VMS memory : 2.75
+--------------------------------------------------
+PID : 1984
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:08
+CPU % : 0.00
+Memory % : 0.04
+No Of Thread Created : 2
+No Of File Opened : 107
+RSS memory : 6.64
+VMS memory : 1.29
+--------------------------------------------------
+PID : 2008
+Name : chrome.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 03:23:20
+CPU % : 0.00
+Memory % : 1.82
+No Of Thread Created : 28
+No Of File Opened : 586
+RSS memory : 292.12
+VMS memory : 270.16
+--------------------------------------------------
+PID : 2068
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:08
+CPU % : 0.00
+Memory % : 0.07
+No Of Thread Created : 4
+No Of File Opened : 161
+RSS memory : 10.92
+VMS memory : 6.4
+--------------------------------------------------
+PID : 2092
+Name : dllhost.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 09:43:34
+CPU % : 0.00
+Memory % : 0.07
+No Of Thread Created : 2
+No Of File Opened : 189
+RSS memory : 10.74
+VMS memory : 2.45
+--------------------------------------------------
+PID : 2164
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:08
+CPU % : 0.00
+Memory % : 0.05
+No Of Thread Created : 3
+No Of File Opened : 206
+RSS memory : 7.68
+VMS memory : 1.92
+--------------------------------------------------
+PID : 2260
+Name : UserOOBEBroker.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 09:26:17
+CPU % : 0.00
+Memory % : 0.07
+No Of Thread Created : 1
+No Of File Opened : 138
+RSS memory : 11.09
+VMS memory : 1.94
+--------------------------------------------------
+PID : 2264
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:08
+CPU % : 0.00
+Memory % : 0.07
+No Of Thread Created : 11
+No Of File Opened : 362
+RSS memory : 11.98
+VMS memory : 3.76
+--------------------------------------------------
+PID : 2276
+Name : msedgewebview2.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 03:18:24
+CPU % : 0.00
+Memory % : 0.03
+No Of Thread Created : 21
+No Of File Opened : 895
+RSS memory : 5.05
+VMS memory : 80.67
+--------------------------------------------------
+PID : 2328
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:08
+CPU % : 1.00
+Memory % : 0.17
+No Of Thread Created : 5
+No Of File Opened : 348
+RSS memory : 27.88
+VMS memory : 17.43
+--------------------------------------------------
+PID : 2344
+Name : WUDFHost.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:08
+CPU % : 0.00
+Memory % : 0.08
+No Of Thread Created : 11
+No Of File Opened : 293
+RSS memory : 13.41
+VMS memory : 4.54
+--------------------------------------------------
+PID : 2360
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:08
+CPU % : 0.00
+Memory % : 0.10
+No Of Thread Created : 11
+No Of File Opened : 363
+RSS memory : 16.82
+VMS memory : 6.91
+--------------------------------------------------
+PID : 2400
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:08
+CPU % : 0.00
+Memory % : 0.13
+No Of Thread Created : 11
+No Of File Opened : 1141
+RSS memory : 20.31
+VMS memory : 6.55
+--------------------------------------------------
+PID : 2408
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:08
+CPU % : 0.00
+Memory % : 0.08
+No Of Thread Created : 4
+No Of File Opened : 260
+RSS memory : 12.72
+VMS memory : 3.71
+--------------------------------------------------
+PID : 2424
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:08
+CPU % : 0.00
+Memory % : 0.06
+No Of Thread Created : 9
+No Of File Opened : 248
+RSS memory : 10.19
+VMS memory : 2.88
+--------------------------------------------------
+PID : 2444
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:08
+CPU % : 0.00
+Memory % : 0.09
+No Of Thread Created : 3
+No Of File Opened : 351
+RSS memory : 14.77
+VMS memory : 2.54
+--------------------------------------------------
+PID : 2452
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:08
+CPU % : 0.00
+Memory % : 0.08
+No Of Thread Created : 2
+No Of File Opened : 205
+RSS memory : 13.25
+VMS memory : 2.47
+--------------------------------------------------
+PID : 2704
+Name : IntelCpHDCPSvc.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:08
+CPU % : 0.00
+Memory % : 0.04
+No Of Thread Created : 3
+No Of File Opened : 150
+RSS memory : 7.07
+VMS memory : 1.42
+--------------------------------------------------
+PID : 2720
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:08
+CPU % : 0.00
+Memory % : 0.13
+No Of Thread Created : 7
+No Of File Opened : 335
+RSS memory : 21.52
+VMS memory : 3.5
+--------------------------------------------------
+PID : 2744
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:08
+CPU % : 0.00
+Memory % : 0.07
+No Of Thread Created : 9
+No Of File Opened : 342
+RSS memory : 11.21
+VMS memory : 2.91
+--------------------------------------------------
+PID : 2800
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:08
+CPU % : 0.00
+Memory % : 0.04
+No Of Thread Created : 5
+No Of File Opened : 124
+RSS memory : 7.12
+VMS memory : 1.55
+--------------------------------------------------
+PID : 2832
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:08
+CPU % : 0.00
+Memory % : 0.06
+No Of Thread Created : 4
+No Of File Opened : 195
+RSS memory : 9.45
+VMS memory : 1.91
+--------------------------------------------------
+PID : 2956
+Name : msedgewebview2.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 03:18:24
+CPU % : 0.00
+Memory % : 0.00
+No Of Thread Created : 10
+No Of File Opened : 180
+RSS memory : 0.0
+VMS memory : 9.86
+--------------------------------------------------
+PID : 2984
+Name : WUDFHost.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:08
+CPU % : 0.00
+Memory % : 0.04
+No Of Thread Created : 5
+No Of File Opened : 223
+RSS memory : 6.74
+VMS memory : 1.59
+--------------------------------------------------
+PID : 3112
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:08
+CPU % : 0.00
+Memory % : 0.08
+No Of Thread Created : 10
+No Of File Opened : 507
+RSS memory : 13.34
+VMS memory : 3.31
+--------------------------------------------------
+PID : 3152
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:08
+CPU % : 0.00
+Memory % : 0.07
+No Of Thread Created : 2
+No Of File Opened : 173
+RSS memory : 11.08
+VMS memory : 2.27
+--------------------------------------------------
+PID : 3160
+Name : DAX3API.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:18:20
+CPU % : 0.00
+Memory % : 0.09
+No Of Thread Created : 3
+No Of File Opened : 259
+RSS memory : 14.84
+VMS memory : 3.34
+--------------------------------------------------
+PID : 3268
+Name : mysqld.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:09
+CPU % : 0.00
+Memory % : 0.07
+No Of Thread Created : 3
+No Of File Opened : 146
+RSS memory : 11.81
+VMS memory : 33.26
+--------------------------------------------------
+PID : 3360
+Name : WUDFHost.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:08
+CPU % : 0.00
+Memory % : 0.05
+No Of Thread Created : 5
+No Of File Opened : 236
+RSS memory : 7.25
+VMS memory : 1.7
+--------------------------------------------------
+PID : 3408
+Name : explorer.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 03:18:21
+CPU % : 1.50
+Memory % : 1.97
+No Of Thread Created : 112
+No Of File Opened : 5337
+RSS memory : 316.84
+VMS memory : 305.86
+--------------------------------------------------
+PID : 3440
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:08
+CPU % : 0.00
+Memory % : 0.05
+No Of Thread Created : 4
+No Of File Opened : 129
+RSS memory : 8.61
+VMS memory : 1.77
+--------------------------------------------------
+PID : 3512
+Name : msedgewebview2.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 03:18:24
+CPU % : 0.00
+Memory % : 0.00
+No Of Thread Created : 29
+No Of File Opened : 443
+RSS memory : 0.52
+VMS memory : 93.08
+--------------------------------------------------
+PID : 3660
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:08
+CPU % : 0.00
+Memory % : 0.12
+No Of Thread Created : 12
+No Of File Opened : 548
+RSS memory : 18.79
+VMS memory : 19.98
+--------------------------------------------------
+PID : 3712
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:08
+CPU % : 0.00
+Memory % : 0.05
+No Of Thread Created : 4
+No Of File Opened : 290
+RSS memory : 7.37
+VMS memory : 1.47
+--------------------------------------------------
+PID : 3720
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:08
+CPU % : 0.00
+Memory % : 0.12
+No Of Thread Created : 5
+No Of File Opened : 250
+RSS memory : 18.67
+VMS memory : 3.21
+--------------------------------------------------
+PID : 3732
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:09
+CPU % : 0.00
+Memory % : 0.05
+No Of Thread Created : 3
+No Of File Opened : 170
+RSS memory : 8.27
+VMS memory : 1.91
+--------------------------------------------------
+PID : 3740
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:08
+CPU % : 0.00
+Memory % : 0.06
+No Of Thread Created : 4
+No Of File Opened : 184
+RSS memory : 9.52
+VMS memory : 2.0
+--------------------------------------------------
+PID : 3844
+Name : MemCompression
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:08
+CPU % : 0.00
+Memory % : 4.55
+No Of Thread Created : 38
+No Of File Opened : 0
+RSS memory : 731.78
+VMS memory : 2.39
+--------------------------------------------------
+PID : 3884
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:08
+CPU % : 0.00
+Memory % : 0.07
+No Of Thread Created : 3
+No Of File Opened : 190
+RSS memory : 10.81
+VMS memory : 2.12
+--------------------------------------------------
+PID : 3896
+Name : msedgewebview2.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 11:06:01
+CPU % : 0.00
+Memory % : 0.02
+No Of Thread Created : 10
+No Of File Opened : 239
+RSS memory : 2.65
+VMS memory : 8.87
+--------------------------------------------------
+PID : 3940
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:08
+CPU % : 0.00
+Memory % : 0.07
+No Of Thread Created : 3
+No Of File Opened : 226
+RSS memory : 10.73
+VMS memory : 2.23
+--------------------------------------------------
+PID : 3948
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:08
+CPU % : 0.00
+Memory % : 0.06
+No Of Thread Created : 6
+No Of File Opened : 189
+RSS memory : 9.89
+VMS memory : 2.07
+--------------------------------------------------
+PID : 4040
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:08
+CPU % : 0.00
+Memory % : 0.14
+No Of Thread Created : 6
+No Of File Opened : 460
+RSS memory : 22.24
+VMS memory : 3.57
+--------------------------------------------------
+PID : 4068
+Name : sihost.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 03:18:20
+CPU % : 0.00
+Memory % : 0.30
+No Of Thread Created : 13
+No Of File Opened : 835
+RSS memory : 48.06
+VMS memory : 8.18
+--------------------------------------------------
+PID : 4076
+Name : FnHotkeyUtility.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 03:18:20
+CPU % : 0.00
+Memory % : 0.26
+No Of Thread Created : 13
+No Of File Opened : 648
+RSS memory : 41.39
+VMS memory : 57.95
+--------------------------------------------------
+PID : 4084
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:09
+CPU % : 0.00
+Memory % : 0.07
+No Of Thread Created : 5
+No Of File Opened : 203
+RSS memory : 10.64
+VMS memory : 1.95
+--------------------------------------------------
+PID : 4112
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:09
+CPU % : 0.00
+Memory % : 0.06
+No Of Thread Created : 3
+No Of File Opened : 174
+RSS memory : 9.66
+VMS memory : 1.93
+--------------------------------------------------
+PID : 4208
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:09
+CPU % : 0.60
+Memory % : 0.07
+No Of Thread Created : 8
+No Of File Opened : 226
+RSS memory : 11.59
+VMS memory : 3.11
+--------------------------------------------------
+PID : 4296
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:09
+CPU % : 0.00
+Memory % : 0.14
+No Of Thread Created : 13
+No Of File Opened : 571
+RSS memory : 23.28
+VMS memory : 6.96
+--------------------------------------------------
+PID : 4312
+Name : svchost.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 03:18:20
+CPU % : 0.00
+Memory % : 0.19
+No Of Thread Created : 8
+No Of File Opened : 529
+RSS memory : 31.26
+VMS memory : 12.16
+--------------------------------------------------
+PID : 4340
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:09
+CPU % : 0.00
+Memory % : 0.11
+No Of Thread Created : 4
+No Of File Opened : 261
+RSS memory : 17.87
+VMS memory : 3.09
+--------------------------------------------------
+PID : 4420
+Name : spoolsv.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:09
+CPU % : 0.00
+Memory % : 0.11
+No Of Thread Created : 7
+No Of File Opened : 452
+RSS memory : 18.28
+VMS memory : 5.84
+--------------------------------------------------
+PID : 4448
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:09
+CPU % : 0.00
+Memory % : 0.12
+No Of Thread Created : 16
+No Of File Opened : 474
+RSS memory : 19.48
+VMS memory : 13.76
+--------------------------------------------------
+PID : 4496
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:09
+CPU % : 0.00
+Memory % : 0.07
+No Of Thread Created : 8
+No Of File Opened : 264
+RSS memory : 10.58
+VMS memory : 2.67
+--------------------------------------------------
+PID : 4592
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:09
+CPU % : 0.00
+Memory % : 0.06
+No Of Thread Created : 4
+No Of File Opened : 183
+RSS memory : 9.82
+VMS memory : 1.88
+--------------------------------------------------
+PID : 4648
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:13
+CPU % : 0.00
+Memory % : 0.17
+No Of Thread Created : 16
+No Of File Opened : 585
+RSS memory : 27.56
+VMS memory : 11.17
+--------------------------------------------------
+PID : 4716
+Name : PresentMonService.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:13
+CPU % : 0.00
+Memory % : 0.07
+No Of Thread Created : 10
+No Of File Opened : 283
+RSS memory : 11.7
+VMS memory : 5.72
+--------------------------------------------------
+PID : 4772
+Name : DAX3API.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:09
+CPU % : 0.00
+Memory % : 0.12
+No Of Thread Created : 9
+No Of File Opened : 387
+RSS memory : 19.81
+VMS memory : 7.88
+--------------------------------------------------
+PID : 4780
+Name : ElevocControlService.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:09
+CPU % : 0.00
+Memory % : 0.06
+No Of Thread Created : 10
+No Of File Opened : 186
+RSS memory : 9.94
+VMS memory : 238.56
+--------------------------------------------------
+PID : 4792
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:09
+CPU % : 0.00
+Memory % : 0.34
+No Of Thread Created : 12
+No Of File Opened : 798
+RSS memory : 54.5
+VMS memory : 30.52
+--------------------------------------------------
+PID : 4800
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:09
+CPU % : 0.00
+Memory % : 0.14
+No Of Thread Created : 10
+No Of File Opened : 391
+RSS memory : 23.19
+VMS memory : 6.11
+--------------------------------------------------
+PID : 4808
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:09
+CPU % : 0.00
+Memory % : 0.33
+No Of Thread Created : 18
+No Of File Opened : 458
+RSS memory : 52.55
+VMS memory : 43.4
+--------------------------------------------------
+PID : 4824
+Name : ipfsvc.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:09
+CPU % : 0.00
+Memory % : 0.04
+No Of Thread Created : 8
+No Of File Opened : 149
+RSS memory : 6.93
+VMS memory : 1.62
+--------------------------------------------------
+PID : 4840
+Name : Lenovo.Modern.ImController.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:09
+CPU % : 0.00
+Memory % : 0.26
+No Of Thread Created : 23
+No Of File Opened : 871
+RSS memory : 42.57
+VMS memory : 33.28
+--------------------------------------------------
+PID : 4848
+Name : OfficeClickToRun.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:09
+CPU % : 0.00
+Memory % : 0.28
+No Of Thread Created : 19
+No Of File Opened : 638
+RSS memory : 44.29
+VMS memory : 17.75
+--------------------------------------------------
+PID : 4892
+Name : ipf_uf.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:09
+CPU % : 0.00
+Memory % : 0.05
+No Of Thread Created : 5
+No Of File Opened : 154
+RSS memory : 8.63
+VMS memory : 2.17
+--------------------------------------------------
+PID : 4900
+Name : IntelAudioService.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:09
+CPU % : 0.00
+Memory % : 0.17
+No Of Thread Created : 5
+No Of File Opened : 439
+RSS memory : 27.42
+VMS memory : 39.25
+--------------------------------------------------
+PID : 4924
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:09
+CPU % : 0.00
+Memory % : 0.09
+No Of Thread Created : 6
+No Of File Opened : 398
+RSS memory : 14.5
+VMS memory : 3.23
+--------------------------------------------------
+PID : 4960
+Name : jhi_service.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:09
+CPU % : 0.00
+Memory % : 0.05
+No Of Thread Created : 2
+No Of File Opened : 145
+RSS memory : 7.88
+VMS memory : 1.38
+--------------------------------------------------
+PID : 4984
+Name : LNBITSSvc.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:09
+CPU % : 0.50
+Memory % : 0.12
+No Of Thread Created : 10
+No Of File Opened : 257
+RSS memory : 19.59
+VMS memory : 9.47
+--------------------------------------------------
+PID : 4992
+Name : LenovoVantageService.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:09
+CPU % : 0.00
+Memory % : 0.33
+No Of Thread Created : 19
+No Of File Opened : 3287
+RSS memory : 52.45
+VMS memory : 40.45
+--------------------------------------------------
+PID : 5004
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:13
+CPU % : 0.00
+Memory % : 0.14
+No Of Thread Created : 7
+No Of File Opened : 365
+RSS memory : 21.82
+VMS memory : 4.39
+--------------------------------------------------
+PID : 5016
+Name : MpDefenderCoreService.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:09
+CPU % : 0.00
+Memory % : 0.15
+No Of Thread Created : 9
+No Of File Opened : 532
+RSS memory : 24.54
+VMS memory : 11.96
+--------------------------------------------------
+PID : 5024
+Name : LenovoUtilityService.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:09
+CPU % : 0.00
+Memory % : 0.09
+No Of Thread Created : 6
+No Of File Opened : 237
+RSS memory : 15.09
+VMS memory : 22.26
+--------------------------------------------------
+PID : 5064
+Name : mongod.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:09
+CPU % : 2.10
+Memory % : 0.24
+No Of Thread Created : 36
+No Of File Opened : 324
+RSS memory : 38.65
+VMS memory : 323.59
+--------------------------------------------------
+PID : 5108
+Name : postgres.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:10
+CPU % : 0.00
+Memory % : 0.06
+No Of Thread Created : 3
+No Of File Opened : 364
+RSS memory : 10.23
+VMS memory : 2.57
+--------------------------------------------------
+PID : 5168
+Name : conhost.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:13
+CPU % : 0.00
+Memory % : 0.04
+No Of Thread Created : 2
+No Of File Opened : 77
+RSS memory : 5.8
+VMS memory : 1.11
+--------------------------------------------------
+PID : 5200
+Name : svchost.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 03:18:20
+CPU % : 0.00
+Memory % : 0.27
+No Of Thread Created : 3
+No Of File Opened : 523
+RSS memory : 43.64
+VMS memory : 8.94
+--------------------------------------------------
+PID : 5244
+Name : conhost.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 10:51:58
+CPU % : 0.00
+Memory % : 0.05
+No Of Thread Created : 5
+No Of File Opened : 110
+RSS memory : 7.91
+VMS memory : 1.4
+--------------------------------------------------
+PID : 5292
+Name : pg_ctl.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:09
+CPU % : 0.00
+Memory % : 0.05
+No Of Thread Created : 2
+No Of File Opened : 145
+RSS memory : 7.75
+VMS memory : 1.5
+--------------------------------------------------
+PID : 5304
+Name : RtkBtManServ.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:09
+CPU % : 0.00
+Memory % : 0.05
+No Of Thread Created : 3
+No Of File Opened : 138
+RSS memory : 8.76
+VMS memory : 1.71
+--------------------------------------------------
+PID : 5312
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:09
+CPU % : 0.00
+Memory % : 0.04
+No Of Thread Created : 4
+No Of File Opened : 141
+RSS memory : 7.14
+VMS memory : 1.41
+--------------------------------------------------
+PID : 5320
+Name : UDClientService.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:09
+CPU % : 0.50
+Memory % : 0.27
+No Of Thread Created : 42
+No Of File Opened : 951
+RSS memory : 43.82
+VMS memory : 73.39
+--------------------------------------------------
+PID : 5328
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:09
+CPU % : 0.00
+Memory % : 0.07
+No Of Thread Created : 5
+No Of File Opened : 189
+RSS memory : 10.5
+VMS memory : 2.23
+--------------------------------------------------
+PID : 5340
+Name : MsMpEng.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:09
+CPU % : 1.50
+Memory % : 1.51
+No Of Thread Created : 66
+No Of File Opened : 984
+RSS memory : 243.19
+VMS memory : 332.27
+--------------------------------------------------
+PID : 5348
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:09
+CPU % : 0.00
+Memory % : 0.16
+No Of Thread Created : 8
+No Of File Opened : 435
+RSS memory : 25.39
+VMS memory : 4.86
+--------------------------------------------------
+PID : 5360
+Name : UltraViewer_Service.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:09
+CPU % : 0.00
+Memory % : 0.14
+No Of Thread Created : 10
+No Of File Opened : 498
+RSS memory : 22.66
+VMS memory : 20.56
+--------------------------------------------------
+PID : 5368
+Name : RtkAudUService64.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:09
+CPU % : 0.00
+Memory % : 0.15
+No Of Thread Created : 18
+No Of File Opened : 536
+RSS memory : 24.55
+VMS memory : 16.63
+--------------------------------------------------
+PID : 5380
+Name : WMIRegistrationService.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:09
+CPU % : 0.00
+Memory % : 0.09
+No Of Thread Created : 2
+No Of File Opened : 279
+RSS memory : 14.91
+VMS memory : 3.0
+--------------------------------------------------
+PID : 5396
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:09
+CPU % : 0.00
+Memory % : 0.08
+No Of Thread Created : 3
+No Of File Opened : 195
+RSS memory : 13.45
+VMS memory : 2.38
+--------------------------------------------------
+PID : 5416
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:09
+CPU % : 0.50
+Memory % : 0.14
+No Of Thread Created : 25
+No Of File Opened : 649
+RSS memory : 22.89
+VMS memory : 13.13
+--------------------------------------------------
+PID : 5628
+Name : chrome.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 03:19:40
+CPU % : 0.00
+Memory % : 0.06
+No Of Thread Created : 8
+No Of File Opened : 213
+RSS memory : 9.01
+VMS memory : 2.48
+--------------------------------------------------
+PID : 5632
+Name : chrome.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 03:23:21
+CPU % : 0.00
+Memory % : 0.45
+No Of Thread Created : 27
+No Of File Opened : 323
+RSS memory : 72.29
+VMS memory : 40.26
+--------------------------------------------------
+PID : 5752
+Name : RuntimeBroker.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 09:20:22
+CPU % : 0.00
+Memory % : 0.26
+No Of Thread Created : 14
+No Of File Opened : 537
+RSS memory : 41.17
+VMS memory : 9.37
+--------------------------------------------------
+PID : 5904
+Name : WmiApSrv.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:22:23
+CPU % : 0.00
+Memory % : 0.06
+No Of Thread Created : 2
+No Of File Opened : 154
+RSS memory : 9.78
+VMS memory : 1.63
+--------------------------------------------------
+PID : 5992
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:09
+CPU % : 0.00
+Memory % : 0.07
+No Of Thread Created : 6
+No Of File Opened : 218
+RSS memory : 11.67
+VMS memory : 2.47
+--------------------------------------------------
+PID : 6132
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:09
+CPU % : 0.00
+Memory % : 0.06
+No Of Thread Created : 3
+No Of File Opened : 189
+RSS memory : 9.79
+VMS memory : 2.09
+--------------------------------------------------
+PID : 6180
+Name : LenovoVantage-(LenovoServiceBridgeAddin).exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 03:22:27
+CPU % : 0.00
+Memory % : 0.03
+No Of Thread Created : 10
+No Of File Opened : 492
+RSS memory : 4.91
+VMS memory : 27.89
+--------------------------------------------------
+PID : 6188
+Name : mysqld.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:09
+CPU % : 0.90
+Memory % : 0.40
+No Of Thread Created : 39
+No Of File Opened : 507
+RSS memory : 64.12
+VMS memory : 586.46
+--------------------------------------------------
+PID : 6200
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:09
+CPU % : 0.00
+Memory % : 0.07
+No Of Thread Created : 2
+No Of File Opened : 202
+RSS memory : 11.23
+VMS memory : 2.11
+--------------------------------------------------
+PID : 6232
+Name : taskhostw.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 03:18:20
+CPU % : 0.00
+Memory % : 0.14
+No Of Thread Created : 8
+No Of File Opened : 325
+RSS memory : 22.57
+VMS memory : 7.51
+--------------------------------------------------
+PID : 6248
+Name : conhost.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:10
+CPU % : 0.00
+Memory % : 0.05
+No Of Thread Created : 4
+No Of File Opened : 132
+RSS memory : 8.77
+VMS memory : 1.58
+--------------------------------------------------
+PID : 6272
+Name : postgres.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:10
+CPU % : 0.00
+Memory % : 0.07
+No Of Thread Created : 2
+No Of File Opened : 365
+RSS memory : 11.57
+VMS memory : 2.95
+--------------------------------------------------
+PID : 6472
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:10
+CPU % : 0.00
+Memory % : 0.10
+No Of Thread Created : 4
+No Of File Opened : 245
+RSS memory : 16.28
+VMS memory : 3.06
+--------------------------------------------------
+PID : 6796
+Name : NgcIso.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:10
+CPU % : 0.00
+Memory % : 0.03
+No Of Thread Created : 1
+No Of File Opened : 53
+RSS memory : 4.17
+VMS memory : 1.54
+--------------------------------------------------
+PID : 6848
+Name : RuntimeBroker.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 09:17:18
+CPU % : 0.00
+Memory % : 0.08
+No Of Thread Created : 2
+No Of File Opened : 155
+RSS memory : 12.91
+VMS memory : 2.31
+--------------------------------------------------
+PID : 6932
+Name : postgres.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:10
+CPU % : 0.00
+Memory % : 0.07
+No Of Thread Created : 2
+No Of File Opened : 368
+RSS memory : 11.78
+VMS memory : 2.96
+--------------------------------------------------
+PID : 6956
+Name : postgres.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:10
+CPU % : 0.00
+Memory % : 0.14
+No Of Thread Created : 3
+No Of File Opened : 409
+RSS memory : 22.05
+VMS memory : 3.01
+--------------------------------------------------
+PID : 6980
+Name : conhost.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:10
+CPU % : 0.50
+Memory % : 0.06
+No Of Thread Created : 4
+No Of File Opened : 138
+RSS memory : 8.96
+VMS memory : 1.58
+--------------------------------------------------
+PID : 7080
+Name : chrome.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 03:19:41
+CPU % : 0.00
+Memory % : 1.73
+No Of Thread Created : 24
+No Of File Opened : 2207
+RSS memory : 277.44
+VMS memory : 398.58
+--------------------------------------------------
+PID : 7144
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:19:14
+CPU % : 0.00
+Memory % : 0.11
+No Of Thread Created : 15
+No Of File Opened : 372
+RSS memory : 17.18
+VMS memory : 4.2
+--------------------------------------------------
+PID : 7352
+Name : svchost.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 03:18:20
+CPU % : 0.00
+Memory % : 0.07
+No Of Thread Created : 3
+No Of File Opened : 145
+RSS memory : 10.67
+VMS memory : 2.14
+--------------------------------------------------
+PID : 7464
+Name : winlogon.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:18:18
+CPU % : 0.00
+Memory % : 0.14
+No Of Thread Created : 4
+No Of File Opened : 296
+RSS memory : 21.78
+VMS memory : 2.72
+--------------------------------------------------
+PID : 7504
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-16 12:22:21
+CPU % : 0.00
+Memory % : 0.18
+No Of Thread Created : 10
+No Of File Opened : 421
+RSS memory : 28.45
+VMS memory : 6.32
+--------------------------------------------------
+PID : 7656
+Name : postgres.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:12
+CPU % : 0.00
+Memory % : 0.07
+No Of Thread Created : 2
+No Of File Opened : 368
+RSS memory : 11.03
+VMS memory : 3.5
+--------------------------------------------------
+PID : 7688
+Name : postgres.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:12
+CPU % : 0.00
+Memory % : 0.09
+No Of Thread Created : 2
+No Of File Opened : 366
+RSS memory : 14.58
+VMS memory : 2.96
+--------------------------------------------------
+PID : 7720
+Name : postgres.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:12
+CPU % : 0.00
+Memory % : 0.07
+No Of Thread Created : 2
+No Of File Opened : 368
+RSS memory : 11.1
+VMS memory : 3.49
+--------------------------------------------------
+PID : 7784
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:11
+CPU % : 0.90
+Memory % : 0.17
+No Of Thread Created : 14
+No Of File Opened : 504
+RSS memory : 28.02
+VMS memory : 9.57
+--------------------------------------------------
+PID : 7844
+Name : unsecapp.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:11
+CPU % : 0.00
+Memory % : 0.07
+No Of Thread Created : 3
+No Of File Opened : 148
+RSS memory : 11.11
+VMS memory : 2.84
+--------------------------------------------------
+PID : 7872
+Name : StartMenuExperienceHost.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 03:18:23
+CPU % : 0.00
+Memory % : 1.03
+No Of Thread Created : 19
+No Of File Opened : 1198
+RSS memory : 164.94
+VMS memory : 107.36
+--------------------------------------------------
+PID : 7904
+Name : WmiPrvSE.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:11
+CPU % : 0.00
+Memory % : 0.12
+No Of Thread Created : 4
+No Of File Opened : 284
+RSS memory : 19.56
+VMS memory : 7.7
+--------------------------------------------------
+PID : 7924
+Name : chrome.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 03:19:41
+CPU % : 0.00
+Memory % : 0.13
+No Of Thread Created : 11
+No Of File Opened : 215
+RSS memory : 20.42
+VMS memory : 11.28
+--------------------------------------------------
+PID : 7948
+Name : unsecapp.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 03:18:20
+CPU % : 0.00
+Memory % : 0.06
+No Of Thread Created : 2
+No Of File Opened : 124
+RSS memory : 9.75
+VMS memory : 1.68
+--------------------------------------------------
+PID : 7984
+Name : msedgewebview2.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 09:17:19
+CPU % : 0.00
+Memory % : 0.10
+No Of Thread Created : 20
+No Of File Opened : 351
+RSS memory : 16.38
+VMS memory : 13.91
+--------------------------------------------------
+PID : 8048
+Name : chrome.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 03:23:28
+CPU % : 0.00
+Memory % : 0.13
+No Of Thread Created : 10
+No Of File Opened : 262
+RSS memory : 21.08
+VMS memory : 8.88
+--------------------------------------------------
+PID : 8184
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:11
+CPU % : 0.00
+Memory % : 0.09
+No Of Thread Created : 5
+No Of File Opened : 200
+RSS memory : 14.01
+VMS memory : 2.92
+--------------------------------------------------
+PID : 8272
+Name : fontdrvhost.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:18:18
+CPU % : 0.00
+Memory % : 0.05
+No Of Thread Created : 5
+No Of File Opened : 43
+RSS memory : 7.88
+VMS memory : 3.87
+--------------------------------------------------
+PID : 8300
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:12
+CPU % : 5.60
+Memory % : 0.18
+No Of Thread Created : 8
+No Of File Opened : 539
+RSS memory : 29.24
+VMS memory : 8.48
+--------------------------------------------------
+PID : 8364
+Name : msedgewebview2.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 09:17:19
+CPU % : 0.00
+Memory % : 0.05
+No Of Thread Created : 13
+No Of File Opened : 414
+RSS memory : 7.73
+VMS memory : 22.75
+--------------------------------------------------
+PID : 8420
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:12
+CPU % : 0.00
+Memory % : 0.06
+No Of Thread Created : 2
+No Of File Opened : 136
+RSS memory : 9.55
+VMS memory : 1.86
+--------------------------------------------------
+PID : 8428
+Name : IntelGraphicsSoftware.Service.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:12
+CPU % : 0.00
+Memory % : 0.23
+No Of Thread Created : 17
+No Of File Opened : 816
+RSS memory : 36.22
+VMS memory : 11.27
+--------------------------------------------------
+PID : 8456
+Name : gamingservicesnet.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:12
+CPU % : 0.00
+Memory % : 0.06
+No Of Thread Created : 38
+No Of File Opened : 304
+RSS memory : 9.76
+VMS memory : 11.94
+--------------------------------------------------
+PID : 8464
+Name : gamingservices.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:12
+CPU % : 0.00
+Memory % : 0.28
+No Of Thread Created : 52
+No Of File Opened : 852
+RSS memory : 44.64
+VMS memory : 18.52
+--------------------------------------------------
+PID : 8512
+Name : Code.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 10:51:53
+CPU % : 0.00
+Memory % : 0.18
+No Of Thread Created : 7
+No Of File Opened : 230
+RSS memory : 28.73
+VMS memory : 10.55
+--------------------------------------------------
+PID : 8588
+Name : dwm.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:18:18
+CPU % : 0.00
+Memory % : 1.09
+No Of Thread Created : 18
+No Of File Opened : 2178
+RSS memory : 174.98
+VMS memory : 281.8
+--------------------------------------------------
+PID : 8604
+Name : AggregatorHost.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:13
+CPU % : 0.00
+Memory % : 0.08
+No Of Thread Created : 3
+No Of File Opened : 210
+RSS memory : 13.25
+VMS memory : 2.8
+--------------------------------------------------
+PID : 8632
+Name : OpenConsole.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 09:16:01
+CPU % : 0.00
+Memory % : 0.11
+No Of Thread Created : 6
+No Of File Opened : 284
+RSS memory : 18.18
+VMS memory : 3.38
+--------------------------------------------------
+PID : 9048
+Name : crashpad_handler.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 03:19:18
+CPU % : 0.00
+Memory % : 0.05
+No Of Thread Created : 7
+No Of File Opened : 113
+RSS memory : 7.82
+VMS memory : 1.48
+--------------------------------------------------
+PID : 9116
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:13
+CPU % : 0.00
+Memory % : 0.06
+No Of Thread Created : 4
+No Of File Opened : 161
+RSS memory : 9.12
+VMS memory : 1.86
+--------------------------------------------------
+PID : 9308
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:13
+CPU % : 0.00
+Memory % : 0.22
+No Of Thread Created : 7
+No Of File Opened : 495
+RSS memory : 35.3
+VMS memory : 6.59
+--------------------------------------------------
+PID : 9344
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-16 10:50:29
+CPU % : 0.00
+Memory % : 0.04
+No Of Thread Created : 3
+No Of File Opened : 120
+RSS memory : 7.06
+VMS memory : 1.32
+--------------------------------------------------
+PID : 9416
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:13
+CPU % : 0.00
+Memory % : 0.03
+No Of Thread Created : 2
+No Of File Opened : 89
+RSS memory : 5.51
+VMS memory : 1.01
+--------------------------------------------------
+PID : 9692
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:13
+CPU % : 0.00
+Memory % : 0.09
+No Of Thread Created : 8
+No Of File Opened : 271
+RSS memory : 14.71
+VMS memory : 7.34
+--------------------------------------------------
+PID : 9712
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:19:14
+CPU % : 0.00
+Memory % : 0.17
+No Of Thread Created : 17
+No Of File Opened : 255
+RSS memory : 27.88
+VMS memory : 26.91
+--------------------------------------------------
+PID : 9720
+Name : WindowsTerminal.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 09:16:01
+CPU % : 4.90
+Memory % : 0.53
+No Of Thread Created : 9
+No Of File Opened : 621
+RSS memory : 85.47
+VMS memory : 79.27
+--------------------------------------------------
+PID : 9784
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:13
+CPU % : 0.00
+Memory % : 0.23
+No Of Thread Created : 11
+No Of File Opened : 1670
+RSS memory : 37.47
+VMS memory : 13.27
+--------------------------------------------------
+PID : 9828
+Name : ShellExperienceHost.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : stopped
+Start time : 2026-02-16 03:45:28
+CPU % : 0.00
+Memory % : 0.56
+No Of Thread Created : 29
+No Of File Opened : 1036
+RSS memory : 89.76
+VMS memory : 73.52
+--------------------------------------------------
+PID : 9924
+Name : LenovoVantage-(GenericMessagingAddin).exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 03:18:30
+CPU % : 0.00
+Memory % : 0.03
+No Of Thread Created : 9
+No Of File Opened : 552
+RSS memory : 4.55
+VMS memory : 22.94
+--------------------------------------------------
+PID : 10068
+Name : conhost.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 09:16:01
+CPU % : 0.00
+Memory % : 0.06
+No Of Thread Created : 2
+No Of File Opened : 139
+RSS memory : 9.21
+VMS memory : 1.4
+--------------------------------------------------
+PID : 10208
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:45:43
+CPU % : 0.00
+Memory % : 0.06
+No Of Thread Created : 4
+No Of File Opened : 219
+RSS memory : 10.18
+VMS memory : 1.98
+--------------------------------------------------
+PID : 10212
+Name : Code.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 10:51:53
+CPU % : 0.00
+Memory % : 1.17
+No Of Thread Created : 19
+No Of File Opened : 850
+RSS memory : 188.1
+VMS memory : 197.73
+--------------------------------------------------
+PID : 10292
+Name : ApplicationFrameHost.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 03:22:54
+CPU % : 0.00
+Memory % : 0.29
+No Of Thread Created : 5
+No Of File Opened : 431
+RSS memory : 46.67
+VMS memory : 59.13
+--------------------------------------------------
+PID : 10376
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:14
+CPU % : 0.00
+Memory % : 0.17
+No Of Thread Created : 8
+No Of File Opened : 296
+RSS memory : 27.44
+VMS memory : 4.7
+--------------------------------------------------
+PID : 10580
+Name : msedgewebview2.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 03:18:24
+CPU % : 0.00
+Memory % : 0.06
+No Of Thread Created : 8
+No Of File Opened : 150
+RSS memory : 9.05
+VMS memory : 2.53
+--------------------------------------------------
+PID : 10784
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:14
+CPU % : 0.00
+Memory % : 0.11
+No Of Thread Created : 3
+No Of File Opened : 276
+RSS memory : 18.05
+VMS memory : 3.25
+--------------------------------------------------
+PID : 10920
+Name : chrome.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 03:19:40
+CPU % : 1.60
+Memory % : 1.72
+No Of Thread Created : 46
+No Of File Opened : 1909
+RSS memory : 276.84
+VMS memory : 163.31
+--------------------------------------------------
+PID : 11008
+Name : msedgewebview2.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 03:19:28
+CPU % : 0.00
+Memory % : 0.50
+No Of Thread Created : 22
+No Of File Opened : 888
+RSS memory : 80.26
+VMS memory : 106.4
+--------------------------------------------------
+PID : 11164
+Name : SearchIndexer.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:14
+CPU % : 0.00
+Memory % : 0.20
+No Of Thread Created : 11
+No Of File Opened : 998
+RSS memory : 32.43
+VMS memory : 28.5
+--------------------------------------------------
+PID : 11172
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:14
+CPU % : 0.00
+Memory % : 0.14
+No Of Thread Created : 10
+No Of File Opened : 450
+RSS memory : 23.29
+VMS memory : 5.65
+--------------------------------------------------
+PID : 11352
+Name : Code.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 10:51:54
+CPU % : 0.00
+Memory % : 0.55
+No Of Thread Created : 27
+No Of File Opened : 371
+RSS memory : 88.34
+VMS memory : 81.43
+--------------------------------------------------
+PID : 11532
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:15
+CPU % : 0.00
+Memory % : 0.06
+No Of Thread Created : 3
+No Of File Opened : 141
+RSS memory : 9.06
+VMS memory : 2.37
+--------------------------------------------------
+PID : 11828
+Name : ShellHost.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 11:37:34
+CPU % : 0.00
+Memory % : 0.30
+No Of Thread Created : 7
+No Of File Opened : 443
+RSS memory : 48.68
+VMS memory : 37.53
+--------------------------------------------------
+PID : 11860
+Name : NisSrv.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:17
+CPU % : 0.00
+Memory % : 0.08
+No Of Thread Created : 4
+No Of File Opened : 216
+RSS memory : 13.25
+VMS memory : 4.46
+--------------------------------------------------
+PID : 11924
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:15
+CPU % : 0.00
+Memory % : 0.10
+No Of Thread Created : 10
+No Of File Opened : 285
+RSS memory : 16.77
+VMS memory : 4.75
+--------------------------------------------------
+PID : 11988
+Name : msedgewebview2.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 09:17:18
+CPU % : 0.80
+Memory % : 0.33
+No Of Thread Created : 49
+No Of File Opened : 1474
+RSS memory : 53.79
+VMS memory : 65.09
+--------------------------------------------------
+PID : 12072
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:21
+CPU % : 0.00
+Memory % : 0.14
+No Of Thread Created : 6
+No Of File Opened : 316
+RSS memory : 23.18
+VMS memory : 3.86
+--------------------------------------------------
+PID : 12172
+Name : RuntimeBroker.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 11:20:33
+CPU % : 0.00
+Memory % : 0.18
+No Of Thread Created : 5
+No Of File Opened : 339
+RSS memory : 28.7
+VMS memory : 4.96
+--------------------------------------------------
+PID : 12484
+Name : CrossDeviceResume.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 03:18:21
+CPU % : 0.00
+Memory % : 0.39
+No Of Thread Created : 7
+No Of File Opened : 702
+RSS memory : 62.09
+VMS memory : 40.54
+--------------------------------------------------
+PID : 12704
+Name : SearchHost.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 03:18:23
+CPU % : 0.40
+Memory % : 0.98
+No Of Thread Created : 26
+No Of File Opened : 1493
+RSS memory : 156.95
+VMS memory : 88.76
+--------------------------------------------------
+PID : 12776
+Name : LenovoVantage-(VantageCoreAddin).exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:20
+CPU % : 0.40
+Memory % : 0.08
+No Of Thread Created : 18
+No Of File Opened : 1342
+RSS memory : 13.02
+VMS memory : 28.38
+--------------------------------------------------
+PID : 12852
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:19:13
+CPU % : 0.00
+Memory % : 0.05
+No Of Thread Created : 5
+No Of File Opened : 156
+RSS memory : 8.79
+VMS memory : 1.7
+--------------------------------------------------
+PID : 12952
+Name : svchost.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 03:18:23
+CPU % : 0.00
+Memory % : 0.16
+No Of Thread Created : 5
+No Of File Opened : 288
+RSS memory : 25.41
+VMS memory : 4.18
+--------------------------------------------------
+PID : 13232
+Name : svchost.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 03:18:22
+CPU % : 0.00
+Memory % : 0.14
+No Of Thread Created : 4
+No Of File Opened : 409
+RSS memory : 22.29
+VMS memory : 5.35
+--------------------------------------------------
+PID : 13272
+Name : WidgetBoard.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 03:18:23
+CPU % : 0.00
+Memory % : 0.60
+No Of Thread Created : 19
+No Of File Opened : 1134
+RSS memory : 96.25
+VMS memory : 79.45
+--------------------------------------------------
+PID : 13680
+Name : RtkAudUService64.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:18:23
+CPU % : 0.00
+Memory % : 0.11
+No Of Thread Created : 6
+No Of File Opened : 361
+RSS memory : 17.04
+VMS memory : 14.6
+--------------------------------------------------
+PID : 13700
+Name : Code.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 10:51:54
+CPU % : 0.00
+Memory % : 0.57
+No Of Thread Created : 25
+No Of File Opened : 351
+RSS memory : 91.99
+VMS memory : 87.99
+--------------------------------------------------
+PID : 13768
+Name : python.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 12:23:06
+CPU % : 92.50
+Memory % : 0.16
+No Of Thread Created : 4
+No Of File Opened : 153
+RSS memory : 25.18
+VMS memory : 15.2
+--------------------------------------------------
+PID : 13852
+Name : FnHotkeyCapsLKNumLK.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 03:18:20
+CPU % : 0.00
+Memory % : 0.10
+No Of Thread Created : 2
+No Of File Opened : 208
+RSS memory : 16.48
+VMS memory : 19.59
+--------------------------------------------------
+PID : 13916
+Name : BatteryWidgetHost.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 03:18:23
+CPU % : 0.00
+Memory % : 0.28
+No Of Thread Created : 15
+No Of File Opened : 788
+RSS memory : 45.14
+VMS memory : 46.74
+--------------------------------------------------
+PID : 13980
+Name : msedgewebview2.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 03:18:27
+CPU % : 0.00
+Memory % : 0.34
+No Of Thread Created : 28
+No Of File Opened : 305
+RSS memory : 55.42
+VMS memory : 39.54
+--------------------------------------------------
+PID : 14012
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:22:56
+CPU % : 0.00
+Memory % : 0.08
+No Of Thread Created : 5
+No Of File Opened : 211
+RSS memory : 12.28
+VMS memory : 2.36
+--------------------------------------------------
+PID : 14260
+Name : Code.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 10:51:52
+CPU % : 0.40
+Memory % : 0.80
+No Of Thread Created : 50
+No Of File Opened : 1044
+RSS memory : 128.54
+VMS memory : 115.62
+--------------------------------------------------
+PID : 14272
+Name : WidgetService.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 03:18:23
+CPU % : 0.00
+Memory % : 0.18
+No Of Thread Created : 13
+No Of File Opened : 507
+RSS memory : 29.08
+VMS memory : 6.84
+--------------------------------------------------
+PID : 14720
+Name : msedgewebview2.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 03:18:23
+CPU % : 0.00
+Memory % : 0.07
+No Of Thread Created : 51
+No Of File Opened : 1254
+RSS memory : 10.75
+VMS memory : 44.7
+--------------------------------------------------
+PID : 14736
+Name : AppProvisioningPlugin.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:18:21
+CPU % : 0.00
+Memory % : 0.19
+No Of Thread Created : 10
+No Of File Opened : 453
+RSS memory : 30.59
+VMS memory : 40.87
+--------------------------------------------------
+PID : 14812
+Name : svchost.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 03:18:22
+CPU % : 0.00
+Memory % : 0.27
+No Of Thread Created : 13
+No Of File Opened : 528
+RSS memory : 44.0
+VMS memory : 12.72
+--------------------------------------------------
+PID : 14928
+Name : conhost.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:18:21
+CPU % : 0.00
+Memory % : 0.06
+No Of Thread Created : 4
+No Of File Opened : 142
+RSS memory : 9.96
+VMS memory : 1.63
+--------------------------------------------------
+PID : 14944
+Name : SystemSettings.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : stopped
+Start time : 2026-02-16 11:09:19
+CPU % : 0.00
+Memory % : 0.01
+No Of Thread Created : 46
+No Of File Opened : 1397
+RSS memory : 1.8
+VMS memory : 111.05
+--------------------------------------------------
+PID : 15032
+Name : WmiPrvSE.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:17:37
+CPU % : 0.40
+Memory % : 0.10
+No Of Thread Created : 10
+No Of File Opened : 186
+RSS memory : 16.31
+VMS memory : 5.83
+--------------------------------------------------
+PID : 15100
+Name : chrome.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 09:36:52
+CPU % : 0.00
+Memory % : 2.21
+No Of Thread Created : 29
+No Of File Opened : 581
+RSS memory : 354.64
+VMS memory : 288.64
+--------------------------------------------------
+PID : 15156
+Name : csrss.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:18:18
+CPU % : 0.00
+Memory % : 0.05
+No Of Thread Created : 15
+No Of File Opened : 886
+RSS memory : 8.39
+VMS memory : 3.0
+--------------------------------------------------
+PID : 15180
+Name : RuntimeBroker.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 03:45:28
+CPU % : 0.40
+Memory % : 0.19
+No Of Thread Created : 4
+No Of File Opened : 336
+RSS memory : 30.18
+VMS memory : 6.31
+--------------------------------------------------
+PID : 15448
+Name : MicrosoftStartFeedProvider.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 03:18:25
+CPU % : 0.00
+Memory % : 0.29
+No Of Thread Created : 11
+No Of File Opened : 614
+RSS memory : 46.0
+VMS memory : 11.02
+--------------------------------------------------
+PID : 15456
+Name : ctfmon.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 03:18:25
+CPU % : 0.00
+Memory % : 0.43
+No Of Thread Created : 13
+No Of File Opened : 627
+RSS memory : 69.05
+VMS memory : 31.38
+--------------------------------------------------
+PID : 15632
+Name : LenovoVantage-(SmartDisplayAddin).exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:22:20
+CPU % : 0.00
+Memory % : 0.05
+No Of Thread Created : 16
+No Of File Opened : 634
+RSS memory : 8.77
+VMS memory : 37.4
+--------------------------------------------------
+PID : 15644
+Name : SecurityHealthService.exe
+Username : None
+Status : running
+Start time : 2026-02-16 09:20:23
+CPU % : 0.00
+Memory % : 0.13
+No Of Thread Created : 5
+No Of File Opened : 387
+RSS memory : 20.27
+VMS memory : 7.43
+--------------------------------------------------
+PID : 15788
+Name : Locator.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:22:21
+CPU % : 0.00
+Memory % : 0.02
+No Of Thread Created : 2
+No Of File Opened : 57
+RSS memory : 3.86
+VMS memory : 0.65
+--------------------------------------------------
+PID : 15820
+Name : PhoneExperienceHost.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 03:18:28
+CPU % : 0.00
+Memory % : 1.00
+No Of Thread Created : 20
+No Of File Opened : 1487
+RSS memory : 160.48
+VMS memory : 87.09
+--------------------------------------------------
+PID : 15884
+Name : msedgewebview2.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 03:18:26
+CPU % : 1.10
+Memory % : 0.78
+No Of Thread Created : 61
+No Of File Opened : 1347
+RSS memory : 126.05
+VMS memory : 86.28
+--------------------------------------------------
+PID : 15932
+Name : msedgewebview2.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 03:18:26
+CPU % : 0.00
+Memory % : 0.06
+No Of Thread Created : 8
+No Of File Opened : 143
+RSS memory : 9.25
+VMS memory : 2.48
+--------------------------------------------------
+PID : 16064
+Name : LenovoVantage-(SmartInteractAddin).exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 03:22:28
+CPU % : 0.00
+Memory % : 0.03
+No Of Thread Created : 13
+No Of File Opened : 564
+RSS memory : 4.08
+VMS memory : 33.13
+--------------------------------------------------
+PID : 16216
+Name : msedgewebview2.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 03:18:26
+CPU % : 0.00
+Memory % : 0.22
+No Of Thread Created : 19
+No Of File Opened : 345
+RSS memory : 34.84
+VMS memory : 12.38
+--------------------------------------------------
+PID : 16256
+Name : msedgewebview2.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 03:18:26
+CPU % : 0.00
+Memory % : 0.11
+No Of Thread Created : 9
+No Of File Opened : 173
+RSS memory : 18.12
+VMS memory : 9.54
+--------------------------------------------------
+PID : 16472
+Name : cmd.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 09:16:01
+CPU % : 0.00
+Memory % : 0.04
+No Of Thread Created : 1
+No Of File Opened : 92
+RSS memory : 6.72
+VMS memory : 2.54
+--------------------------------------------------
+PID : 16556
+Name : svchost.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 03:18:31
+CPU % : 0.00
+Memory % : 0.15
+No Of Thread Created : 5
+No Of File Opened : 273
+RSS memory : 23.54
+VMS memory : 3.2
+--------------------------------------------------
+PID : 16688
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:18:31
+CPU % : 0.00
+Memory % : 0.06
+No Of Thread Created : 1
+No Of File Opened : 157
+RSS memory : 8.92
+VMS memory : 1.76
+--------------------------------------------------
+PID : 16792
+Name : svchost.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 03:18:31
+CPU % : 0.00
+Memory % : 0.09
+No Of Thread Created : 3
+No Of File Opened : 150
+RSS memory : 14.4
+VMS memory : 1.9
+--------------------------------------------------
+PID : 16936
+Name : IGCC.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : stopped
+Start time : 2026-02-16 03:19:18
+CPU % : 0.00
+Memory % : 0.06
+No Of Thread Created : 17
+No Of File Opened : 482
+RSS memory : 10.38
+VMS memory : 43.6
+--------------------------------------------------
+PID : 16960
+Name : chrome.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 03:23:28
+CPU % : 0.00
+Memory % : 0.24
+No Of Thread Created : 11
+No Of File Opened : 536
+RSS memory : 37.99
+VMS memory : 62.75
+--------------------------------------------------
+PID : 16964
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:18:32
+CPU % : 0.00
+Memory % : 0.06
+No Of Thread Created : 21
+No Of File Opened : 224
+RSS memory : 9.73
+VMS memory : 3.11
+--------------------------------------------------
+PID : 17056
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:18:32
+CPU % : 0.00
+Memory % : 0.11
+No Of Thread Created : 13
+No Of File Opened : 474
+RSS memory : 16.94
+VMS memory : 3.97
+--------------------------------------------------
+PID : 17304
+Name : TextInputHost.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 03:18:33
+CPU % : 0.00
+Memory % : 0.95
+No Of Thread Created : 45
+No Of File Opened : 1599
+RSS memory : 152.23
+VMS memory : 180.62
+--------------------------------------------------
+PID : 17484
+Name : chrome.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 09:35:40
+CPU % : 0.00
+Memory % : 0.38
+No Of Thread Created : 26
+No Of File Opened : 322
+RSS memory : 61.09
+VMS memory : 33.17
+--------------------------------------------------
+PID : 17804
+Name : msedgewebview2.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 09:17:20
+CPU % : 0.00
+Memory % : 1.31
+No Of Thread Created : 34
+No Of File Opened : 420
+RSS memory : 210.53
+VMS memory : 263.68
+--------------------------------------------------
+PID : 18024
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:19:14
+CPU % : 0.00
+Memory % : 0.08
+No Of Thread Created : 8
+No Of File Opened : 214
+RSS memory : 12.53
+VMS memory : 3.17
+--------------------------------------------------
+PID : 18056
+Name : dllhost.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 09:43:34
+CPU % : 0.00
+Memory % : 0.10
+No Of Thread Created : 3
+No Of File Opened : 191
+RSS memory : 16.47
+VMS memory : 2.3
+--------------------------------------------------
+PID : 18092
+Name : msedgewebview2.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 09:17:19
+CPU % : 0.00
+Memory % : 0.06
+No Of Thread Created : 8
+No Of File Opened : 157
+RSS memory : 9.2
+VMS memory : 2.5
+--------------------------------------------------
+PID : 18228
+Name : backgroundTaskHost.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : stopped
+Start time : 2026-02-16 09:15:44
+CPU % : 0.00
+Memory % : 0.01
+No Of Thread Created : 15
+No Of File Opened : 425
+RSS memory : 1.98
+VMS memory : 14.01
+--------------------------------------------------
+PID : 18240
+Name : LockApp.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : stopped
+Start time : 2026-02-16 09:20:22
+CPU % : 0.00
+Memory % : 0.69
+No Of Thread Created : 28
+No Of File Opened : 1123
+RSS memory : 111.29
+VMS memory : 87.85
+--------------------------------------------------
+PID : 18300
+Name : SpotifyWidgetProvider.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 03:19:18
+CPU % : 0.00
+Memory % : 0.22
+No Of Thread Created : 7
+No Of File Opened : 648
+RSS memory : 35.75
+VMS memory : 5.62
+--------------------------------------------------
+PID : 18644
+Name : msedgewebview2.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 03:19:28
+CPU % : 0.00
+Memory % : 0.25
+No Of Thread Created : 23
+No Of File Opened : 371
+RSS memory : 39.61
+VMS memory : 14.12
+--------------------------------------------------
+PID : 18652
+Name : pet.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 10:51:57
+CPU % : 0.00
+Memory % : 0.04
+No Of Thread Created : 1
+No Of File Opened : 62
+RSS memory : 5.82
+VMS memory : 1.61
+--------------------------------------------------
+PID : 18896
+Name : msedgewebview2.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 03:19:28
+CPU % : 0.00
+Memory % : 0.12
+No Of Thread Created : 10
+No Of File Opened : 181
+RSS memory : 19.88
+VMS memory : 10.82
+--------------------------------------------------
+PID : 18908
+Name : RuntimeBroker.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 03:19:20
+CPU % : 0.00
+Memory % : 0.13
+No Of Thread Created : 2
+No Of File Opened : 235
+RSS memory : 20.52
+VMS memory : 3.01
+--------------------------------------------------
+PID : 19028
+Name : backgroundTaskHost.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 11:20:33
+CPU % : 0.00
+Memory % : 0.33
+No Of Thread Created : 9
+No Of File Opened : 454
+RSS memory : 53.22
+VMS memory : 24.96
+--------------------------------------------------
+PID : 19052
+Name : msedgewebview2.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 03:19:28
+CPU % : 0.00
+Memory % : 0.23
+No Of Thread Created : 15
+No Of File Opened : 249
+RSS memory : 36.36
+VMS memory : 21.21
+--------------------------------------------------
+PID : 19108
+Name : msedgewebview2.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 03:19:28
+CPU % : 0.00
+Memory % : 1.03
+No Of Thread Created : 29
+No Of File Opened : 462
+RSS memory : 165.91
+VMS memory : 127.59
+--------------------------------------------------
+PID : 19144
+Name : chrome.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 03:19:41
+CPU % : 1.00
+Memory % : 0.38
+No Of Thread Created : 22
+No Of File Opened : 480
+RSS memory : 60.53
+VMS memory : 30.25
+--------------------------------------------------
+PID : 19316
+Name : msedgewebview2.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 03:19:27
+CPU % : 0.70
+Memory % : 0.75
+No Of Thread Created : 50
+No Of File Opened : 1530
+RSS memory : 119.93
+VMS memory : 51.97
+--------------------------------------------------
+PID : 19344
+Name : msedgewebview2.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 03:19:27
+CPU % : 0.00
+Memory % : 0.06
+No Of Thread Created : 8
+No Of File Opened : 157
+RSS memory : 9.25
+VMS memory : 2.5
+--------------------------------------------------
+PID : 19512
+Name : Code.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 10:51:59
+CPU % : 0.30
+Memory % : 2.53
+No Of Thread Created : 15
+No Of File Opened : 275
+RSS memory : 407.42
+VMS memory : 530.23
+--------------------------------------------------
+PID : 19748
+Name : unsecapp.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 10:50:59
+CPU % : 0.00
+Memory % : 0.06
+No Of Thread Created : 2
+No Of File Opened : 129
+RSS memory : 9.53
+VMS memory : 1.7
+--------------------------------------------------
+PID : 19836
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-16 03:33:33
+CPU % : 0.00
+Memory % : 0.05
+No Of Thread Created : 2
+No Of File Opened : 120
+RSS memory : 8.05
+VMS memory : 1.39
+--------------------------------------------------
+PID : 19844
+Name : chrome.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 12:21:54
+CPU % : 0.00
+Memory % : 0.19
+No Of Thread Created : 13
+No Of File Opened : 227
+RSS memory : 30.32
+VMS memory : 15.46
+--------------------------------------------------
+PID : 19856
+Name : RuntimeBroker.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 09:15:45
+CPU % : 0.00
+Memory % : 0.08
+No Of Thread Created : 2
+No Of File Opened : 213
+RSS memory : 12.99
+VMS memory : 2.41
+--------------------------------------------------
+PID : 20056
+Name : MoUsoCoreWorker.exe
+Username : None
+Status : running
+Start time : 2026-02-16 12:22:20
+CPU % : 0.00
+Memory % : 0.25
+No Of Thread Created : 9
+No Of File Opened : 317
+RSS memory : 39.55
+VMS memory : 9.57
+--------------------------------------------------
+PID : 20112
+Name : dllhost.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 09:43:34
+CPU % : 0.00
+Memory % : 0.10
+No Of Thread Created : 3
+No Of File Opened : 178
+RSS memory : 15.38
+VMS memory : 2.02
+--------------------------------------------------
+PID : 20188
+Name : dllhost.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 09:43:34
+CPU % : 0.00
+Memory % : 0.09
+No Of Thread Created : 3
+No Of File Opened : 180
+RSS memory : 15.21
+VMS memory : 1.92
+--------------------------------------------------
+PID : 20220
+Name : msedgewebview2.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 09:17:19
+CPU % : 0.00
+Memory % : 0.02
+No Of Thread Created : 10
+No Of File Opened : 174
+RSS memory : 2.91
+VMS memory : 9.13
+--------------------------------------------------
+PID : 20420
+Name : WhatsApp.Root.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 09:17:16
+CPU % : 0.30
+Memory % : 1.35
+No Of Thread Created : 35
+No Of File Opened : 1649
+RSS memory : 217.52
+VMS memory : 116.22
+--------------------------------------------------
+PID : 21416
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-16 12:05:57
+CPU % : 0.00
+Memory % : 0.06
+No Of Thread Created : 6
+No Of File Opened : 177
+RSS memory : 9.79
+VMS memory : 1.95
+--------------------------------------------------
+PID : 22492
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-16 10:50:57
+CPU % : 1.00
+Memory % : 0.06
+No Of Thread Created : 6
+No Of File Opened : 124
+RSS memory : 8.85
+VMS memory : 1.99
+--------------------------------------------------
+PID : 22596
+Name : MessagingPlugin.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 10:51:00
+CPU % : 0.30
+Memory % : 0.21
+No Of Thread Created : 14
+No Of File Opened : 593
+RSS memory : 34.37
+VMS memory : 47.56
+--------------------------------------------------
+PID : 22608
+Name : conhost.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 10:51:00
+CPU % : 0.00
+Memory % : 0.04
+No Of Thread Created : 2
+No Of File Opened : 96
+RSS memory : 6.47
+VMS memory : 1.17
+--------------------------------------------------
+PID : 22888
+Name : chrome.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 12:20:33
+CPU % : 0.30
+Memory % : 0.36
+No Of Thread Created : 19
+No Of File Opened : 268
+RSS memory : 57.49
+VMS memory : 28.14
+--------------------------------------------------
+PID : 23056
+Name : chrome.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 12:21:39
+CPU % : 0.00
+Memory % : 0.22
+No Of Thread Created : 14
+No Of File Opened : 248
+RSS memory : 35.35
+VMS memory : 19.38
+--------------------------------------------------
+PID : 23236
+Name : Code.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 10:51:53
+CPU % : 0.00
+Memory % : 0.28
+No Of Thread Created : 17
+No Of File Opened : 365
+RSS memory : 45.57
+VMS memory : 14.13
+--------------------------------------------------
+PID : 23380
+Name : Code.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 10:51:54
+CPU % : 0.30
+Memory % : 1.21
+No Of Thread Created : 27
+No Of File Opened : 486
+RSS memory : 194.3
+VMS memory : 364.64
+--------------------------------------------------
+PID : 23440
+Name : Code.exe
+Username : YK\YOGIRAJ KHALADKAR
+Status : running
+Start time : 2026-02-16 10:51:53
+CPU % : 0.70
+Memory % : 1.58
+No Of Thread Created : 27
+No Of File Opened : 515
+RSS memory : 254.57
+VMS memory : 275.12
+--------------------------------------------------
+--------------------------------------------------
+----------------- End of Log File ----------------
+--------------------------------------------------
