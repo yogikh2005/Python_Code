@@ -146,6 +146,7 @@ def ShowData(df,message):
     plt.xticks(rotation=45)
     plt.title("Boxplot for Outlier Detection")
     plt.show()
+    
 #-----------------------------------------------------------------
 # Fucntion Name    : CleanBankData
 # Description      : It does preprocessing
