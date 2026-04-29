@@ -57,6 +57,7 @@ def TrainFakeNewsmodel(df):
         # base model create
         model_lr = LogisticRegression(max_iter=1000)
         model_dt = DecisionTreeClassifier(random_state=42)
+        
 
         #soft voting classification
 
